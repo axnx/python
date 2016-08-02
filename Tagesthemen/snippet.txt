@@ -1,0 +1,25 @@
+</div>
+<div class="legende">
+<div class="inhalt">
+<p class="teasertext"><strong>Themen der Sendung: </strong>EU und Türkei streiten über Visafreiheit, Ausbildungsstätten leiden unter Nachwuchsmangel, Der Kommentar, Weitere Meldungen im Überblick, Tagesschau feiert 20 Jahre Online, Das Wetter</p>
+<div class="modForm">
+<div data-ctrl-collapsible="{'id':'videocollsearch_video-204575','action':{'init':['enable','closeEntries']}}" class="form">
+<form data-ctrl-searchload-form="{}" data-ctrl-videocollsearch_video-204575-entry="{'id':'video-204575'}" class="seperateFields">
+<p class="teasertext" data-ctrl-videocollsearch_video-204575-video-204575-trigger="{'action':{'default':['toggleBody']}}"><strong>Download der Videodatei</strong></p>
+<div data-ctrl-videocollsearch_video-204575-video-204575-body="{}">
+<fieldset>
+<p>Wir bieten dieses Video in folgenden Formaten zum Download an:</p>
+<div class="controls">
+<div class="button" title="Video: H.264/MPEG4 &#10;320x240px&#10;150kbps&#10;Audio: 96kbps, Mono&#10;Gr&ouml;&szlig;e: 43.4 MB"><a href="http://download.media.tagesschau.de/video/2016/0801/TV-20160801-2255-0001.h264.mp4">Mobil (h264)</a></div>
+<div class="button" title="Video: H.264/MPEG4 &#10;480x272px&#10;256kbps&#10;Audio: 64kbps, Mono&#10;Gr&ouml;&szlig;e: 66.8 MB"><a href="http://download.media.tagesschau.de/video/2016/0801/TV-20160801-2255-0001.websm.h264.mp4">Klein (h264)</a></div>
+<div class="button" title="Video: H.264/MPEG4 &#10;512x288px&#10;512kbps&#10;Audio: 128kbps, Stereo&#10;Gr&ouml;&szlig;e: 118.1 MB"><a href="http://download.media.tagesschau.de/video/2016/0801/TV-20160801-2255-0001.webm.h264.mp4">Mittel (h264)</a></div>
+<div class="button" title="Video: WebM &#10;512x288px&#10;512kbps&#10;Audio: 128kbps, Stereo&#10;Gr&ouml;&szlig;e: 127.8 MB"><a href="http://download.media.tagesschau.de/video/2016/0801/TV-20160801-2255-0001.webm.webm">Mittel (WebM)</a></div>
+<div class="button" title="Video: H.264/MPEG4 &#10;960x544px&#10;1536kbps&#10;Audio: 192kbps, Stereo&#10;Gr&ouml;&szlig;e: 382.3 MB"><a href="http://download.media.tagesschau.de/video/2016/0801/TV-20160801-2255-0001.webl.h264.mp4">Gro&szlig; (h264)</a></div>
+<div class="button" title="Video: WebM &#10;960x544px&#10;1536kbps&#10;Audio: 192kbps, Stereo&#10;Gr&ouml;&szlig;e: 418 MB"><a href="http://download.media.tagesschau.de/video/2016/0801/TV-20160801-2255-0001.webl.webm">Gro&szlig; (WebM)</a></div>
+<div class="button" title="Video: H.264/MPEG4 &#10;1280x720px&#10;3584kbps&#10;Audio: 192kbps, Stereo&#10;Gr&ouml;&szlig;e: 740.6 MB"><a href="http://download.media.tagesschau.de/video/2016/0801/TV-20160801-2255-0001.webxl.h264.mp4">HD (h264)</a></div>
+</div>
+<p><strong>Hinweis:</strong> Falls die Videodatei beim Klicken nicht automatisch gespeichert wird, können Sie mit der rechten Maustaste klicken und "Ziel speichern unter ..." auswählen.</p>
+</fieldset>
+</div>
+</form>
+</div>
