@@ -33,6 +33,15 @@ def writeFile(filename, content):
     file_stream.write(content)
     file_stream.close()
 
+def checkJsonOk(json_obj):
+    json_status = json_obj['status']
+    if json_status=="OK":
+       status=True
+    else:
+       status=False
+    
+    print("status:" + str(status))
+
 def init():
     print()
     print("Lat-Long from address generator V.1.0" )
